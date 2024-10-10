@@ -2,11 +2,11 @@
 
 ## Task Contribution
 
-**Anissa Tegawendé Ouedraogo** - Exponential Overview
-**Bernice Awinpang Akudbilla** - Visualization of the Distribution
-**Steven Shyaka** - Exponential Formula
-**Lindah Nyambura** - Calculation of the real world example
-**Jesse Kiguta** - Python code of the example
+- **Anissa Tegawendé Ouedraogo** - Exponential Distribution Overview
+- **Bernice Awinpang Akudbilla** - Visualization of the Distribution
+- **Steven Shyaka** - Exponential Formula
+- **Lindah Nyambura** - Calculation of the real world example
+- **Jesse Kiguta** - Python code of the example
 
 ## Video Demo
 https://github.com/user-attachments/assets/d6c6f62e-7d05-4181-a92d-f61a2f52d75b
